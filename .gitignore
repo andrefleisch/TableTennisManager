@@ -1,0 +1,15 @@
+# Operating system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors
+.idea/
+.vscode/
+
+# Runtime data
+historico.json
